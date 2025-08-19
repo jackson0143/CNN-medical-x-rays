@@ -3,6 +3,11 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+
+#folders to ignore
+data/
+outputs/
+
 # C extensions
 *.so
 
